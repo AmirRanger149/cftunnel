@@ -621,7 +621,7 @@ clash-meta
   sni: ${hostName}
   client-fingerprint: chrome
   ws-opts:
-    path: "/?ed=2048"
+    path: "/Ranger_149"
     headers:
       host: ${hostName}
       t.me/AmirRanger_149
